@@ -1,0 +1,49 @@
+[ {
+  "name" : "Axe",
+  "type" : "Melee",
+  "damage" : 25,
+  "rarity" : "Common",
+  "tags" : [ ]
+}, {
+  "name" : "Bow",
+  "type" : "Ranged",
+  "damage" : 35,
+  "rarity" : "Rare",
+  "tags" : [ ]
+}, {
+  "name" : "Crossbow",
+  "type" : "Ranged",
+  "damage" : 50,
+  "rarity" : "Rare",
+  "tags" : [ ]
+}, {
+  "name" : "Healing Scroll",
+  "type" : "Magic",
+  "damage" : 50,
+  "rarity" : "Epic",
+  "tags" : [ ]
+}, {
+  "name" : "Large Sword",
+  "type" : "MELEE",
+  "damage" : 75,
+  "rarity" : "COMMON",
+  "tags" : [ "Double-Handed", "Heavy" ]
+}, {
+  "name" : "Mace",
+  "type" : "Melee",
+  "damage" : 50,
+  "rarity" : "Rare",
+  "tags" : [ ]
+}, {
+  "name" : "Staff",
+  "type" : "Magic",
+  "damage" : 100,
+  "rarity" : "Epic",
+  "tags" : [ ]
+}, {
+  "name" : "Sword",
+  "type" : "Melee",
+  "damage" : 50,
+  "rarity" : "Common",
+  "tags" : [ ]
+} ]
